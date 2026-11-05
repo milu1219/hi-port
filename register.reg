@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Google\Chrome\NativeMessagingHosts\com.portkiller.host]
+@="C:\\Users\\hi\\Desktop\\tool\\portkiller\\host\\com.portkiller.host.json"
+
+[HKEY_CURRENT_USER\Software\BraveSoftware\Brave-Browser\NativeMessagingHosts\com.portkiller.host]
+@="C:\\Users\\hi\\Desktop\\tool\\portkiller\\host\\com.portkiller.host.json"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Edge\NativeMessagingHosts\com.portkiller.host]
+@="C:\\Users\\hi\\Desktop\\tool\\portkiller\\host\\com.portkiller.host.json"
+
