@@ -38,7 +38,7 @@ echo [OK] Host launcher:  %BAT_FILE%
 echo.
 
 :: 3. Get Chrome Extension ID
-set "DEFAULT_EXT_ID=ijikcidihkhnojdcbjmejedmdoiibbgb"
+set "DEFAULT_EXT_ID=ichfobjkfepeegfckcndecpdjhekdnpf"
 set "EXT_ID=%~1"
 if "%EXT_ID%"=="" (
     echo Please load the unpacked extension in Chrome first:

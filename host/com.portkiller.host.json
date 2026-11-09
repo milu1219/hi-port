@@ -1,9 +1,10 @@
 {
   "name": "com.portkiller.host",
   "description": "Port Killer Windows Native Messaging Host",
-  "path": "C:\\Users\\hi\\Desktop\\tool\\portkiller\\host\\run_host.bat",
+  "path": "C:\\Users\\hi\\Desktop\\CODE\\tool\\portkiller\\host\\run_host.bat",
   "type": "stdio",
   "allowed_origins": [
+    "chrome-extension://ichfobjkfepeegfckcndecpdjhekdnpf/",
     "chrome-extension://ijikcidihkhnojdcbjmejedmdoiibbgb/"
   ]
 }
